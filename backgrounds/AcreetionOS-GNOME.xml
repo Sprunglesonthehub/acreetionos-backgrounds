@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>AcreetionOS GNOME</name>
+        <name xml:lang="en">AcreetionOS GNOME</name>
+        <filename>/usr/local/share/backgrounds/AcreetionOS-GNOME.jpg<filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+</wallpapers>
